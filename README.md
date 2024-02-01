@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @aaron25484
+- 👋 Hi, I’m Aaron,  I'm an emerging full-stack web developer, delving into the realms of both front-end and back-end technologies, eager to learn and grow.
 - 👀 I’m interested in everything related to movies, music, photography and refining my capuccino recipe!
-- 🌱 I’m currently learning software development ( and I'm gonna do this til I die )
 - 📫 Give me a heads up at aaronsantosdev@gmail.com
 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aarondelossantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasriestra/" height="30" width="40" /></a>
+  📫 Give me a heads up at aaronsantosdev@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
