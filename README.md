@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,tailwind,bootstrap,nodejs,express,mongodb,postgres,mysql,git,github,nextjs,prisma,vercel,jenkins,jest,ps,postman&perline=8" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,tailwind,bootstrap,nodejs,express,mongodb,postgres,git,github,nextjs,prisma,vercel,jenkins,jest,ps,postman&perline=7" />
   </a>
 </p>
 
